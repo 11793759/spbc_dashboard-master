@@ -13,7 +13,7 @@ The current configuration:
 - Memory: 1024 MB
 - Buildpack: php_buildpack
 - Stack: cflinuxfs3
-- App Code: points to this Git repo (https://gitlab.devtools.intel.com/dchauhan/spbc_dashboard.git)
+- App Code: points to this Git repo (https://github.com/11793759/spbc_dashboard-master) (older - https://gitlab.devtools.intel.com/dchauhan/spbc_dashboard.git)
 
 Note: if there is a server error (Error 500), you can view the cause by navigating to the Cloud Foundry Portal and streaming the logs.
 
