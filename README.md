@@ -4,7 +4,7 @@
 
 ### Web Server
 
-This repo contains the AppCode and htdocs for the GNA Dashboard. The server is hosted on [Intel CloudFoundry](https://cloudfoundry.intel.com/apps/signin). After signing in the first time contact Brian Kelley to receive access to the GNA-LIPID-Dashboard Application.
+This repo contains the AppCode and htdocs for the SPBC Dashboard. The server is hosted on [Intel CloudFoundry](https://cloudfoundry.intel.com/apps/signin). After signing in the first time contact Brian Kelley to receive access to the SPBC-LIPID-Dashboard Application.
 
 The current configuration:
 
