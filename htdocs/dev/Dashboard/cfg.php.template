@@ -1,0 +1,12 @@
+<?php
+
+$cfg["default_config"] = "ADPLP";
+/* $cfg["WIKI_LINK"] = "http://www-fmec.fm.intel.com/twiki/bin/view/Chipset/2LMFMSS"; */
+$cfg["WIKI_LINK"] = "https://www-fmec.fm.intel.com/twiki/bin/view/Chipset/TSI_SIP";
+$cfg["DOC_WRITERS_SHAREPOINT"] = "http://www-fmec.fm.intel.com/twiki/bin/view/Chipset/2LMFMSS";
+$cfg["HSD_BUGS_LINK"] = "https://hsdes.intel.com/appstore/community/#/query?queryId=1409077281";
+$cfg["HSD_OPEN_BUGS_LINK"] = "https://hsdes.intel.com/appstore/community/#/query?queryId=1409077266";
+$cfg["HSD_PCRS_LINK"] = "https://hsdes.intel.com/appstore/community/#/query?queryId=1409106901";
+$cfg["HSD_OPEN_PCRS_LINK"] = "https://hsdes.intel.com/appstore/community/#/query?queryId=1707002115";
+
+?>

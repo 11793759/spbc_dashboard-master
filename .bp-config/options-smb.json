@@ -1,0 +1,9 @@
+{
+    "ADMIN_EMAIL": "brian.kelley@intel.com",
+    "WEB_SERVER": "httpd",
+    "PHP_VERSION": "{PHP_DEFAULT}",
+    "PHP_EXTENSIONS": ["amqp", "apcu", "bz2", "curl", "dba", "exif", "fileinfo", "ftp", "gd", "gettext", "gmp", "igbinary", "imagick", "imap", "ldap", "mailparse", "mbstring", "memcached", "mongodb", "msgpack", "mysqli", "openssl", "pdo", "pdo_sqlite", "pdo_mysql", "pdo_pgsql", "pgsql", "phalcon", "phpiredis", "pspell", "redis", "soap", "sockets", "xsl", "zip", "zlib"],
+    "ZEND_EXTENSIONS": ["xdebug"],
+	"WEBDIR": "htdocs",
+	"ADDITIONAL_PREPROCESS_CMDS": "rm -rf /home/vcap/app/htdocs; ln -s /var/vcap/data/gna_regressions /home/vcap/app/htdocs"
+}
