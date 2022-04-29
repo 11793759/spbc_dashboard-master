@@ -19,8 +19,8 @@ $local_run = FALSE;
 if($_SERVER["HTTP_HOST"] == "SPBC_DASHBOARD_so") {
     $local_run = TRUE;
 } else {
-	if($_SERVER["HTTP_HOST"] != "spbc-dashboard.app.intel.com") {
-		header("Location: https://spbc-dashboard.app.intel.com/");
+	if($_SERVER["HTTP_HOST"] != "spbc-ip-dashboard.app.intel.com") {
+		header("Location: https://spbc-ip-dashboard.app.intel.com/");
 		exit();
 	}
 }
